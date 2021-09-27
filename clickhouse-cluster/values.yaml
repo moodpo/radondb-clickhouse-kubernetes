@@ -3,7 +3,7 @@ clickhouse:
   # default cluster name
   clusterName: all-nodes
   # shards count can not scale in this value.
-  shardscount: 2
+  shardscount: 1
   # replicas count can not modify this value when the cluster has already created.
   replicascount: 2
 

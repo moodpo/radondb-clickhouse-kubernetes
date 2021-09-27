@@ -3,9 +3,9 @@ entries:
   clickhouse-cluster:
   - apiVersion: v2
     appVersion: "21.1"
-    created: "2021-09-26T22:04:00.675712+08:00"
+    created: "2021-09-27T22:04:19.031823+08:00"
     description: Helm Chart for deploying a sharded and replicated ClickHouse cluster
-    digest: fe6ef3db9ff6f90aaaa9a2baebdd2a711eff0ca6dcf3de45f09ad00c841e9e39
+    digest: 2720595f81cd5e1c56fe5f5e4a08ce28c4d2f1d5a9a0c2e8be9bc2a1c1786933
     home: https://github.com/radondb/radondb-clickhouse-kubernetes
     icon: https://xenondb.pek3b.qingstor.com/icons/radondb.svg
     keywords:
@@ -23,7 +23,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: "21.1"
-    created: "2021-09-26T22:04:00.677642+08:00"
+    created: "2021-09-27T22:04:19.034878+08:00"
     description: Helm Chart for deploying a sharded and replicated ClickHouse cluster
     digest: f5f04cb64986f293a2aa0a3a5e93d0049b6bc6153005ab5b4eb25b1a0f7e18fd
     home: https://github.com/radondb/radondb-clickhouse-kubernetes
@@ -44,7 +44,7 @@ entries:
   clickhouse-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-09-26T22:04:00.677122+08:00"
+    created: "2021-09-27T22:04:19.03345+08:00"
     description: clickhouse-operator Helm chart for Kubernetes
     digest: 2645365dfb2cd3257930f0b25ed1b441976c07a6b895110b9b76641929536e91
     home: https://github.com/radondb/radondb-clickhouse-kubernetes
@@ -65,7 +65,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-09-26T22:04:00.678138+08:00"
+    created: "2021-09-27T22:04:19.036051+08:00"
     description: clickhouse-operator Helm chart for Kubernetes
     digest: 3591818fc94d6b1a3054acbf6743057e1bf412acfaaddf10f989059974c68aa4
     home: https://github.com/radondb/radondb-clickhouse-kubernetes
@@ -84,4 +84,4 @@ entries:
     urls:
     - https://moodpo.github.io/radondb-clickhouse-kubernetes/docs/clickhouse-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-26T22:04:00.673452+08:00"
+generated: "2021-09-27T22:04:19.028562+08:00"
